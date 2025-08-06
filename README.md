@@ -50,4 +50,4 @@ This analysis is designed to help:
 
 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboards%20Screenshots/loan_dashboard.png)
+![Dashboard Preview](https://github.com/vrajdarji-31/Bank-Loan-Analysis/blob/main/Dashboards%20Screenshots/Summary_Dashboard_PowerBI.png)
